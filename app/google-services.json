@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629960188366",
+    "project_id": "reto-firebase-moviles-2022",
+    "storage_bucket": "reto-firebase-moviles-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629960188366:android:24c7c9c2cc31a284a8cb9f",
+        "android_client_info": {
+          "package_name": "mx.edu.itm.link.retofirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629960188366-hkkord8kss065p24j9fvia2i74ls4n99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs8UnmcMB0gZ7M-Wq5iMl3E-pWCk56u1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629960188366-hkkord8kss065p24j9fvia2i74ls4n99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
